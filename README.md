@@ -66,3 +66,5 @@ Assistant: [Fetches and discusses specific content]
 7 days to complete
 
 Focus on building an MVP that works end-to-end.
+
+**Note:** You may use any AI tools during development. After submission, we'll have a discussion to review your solution and understanding.
